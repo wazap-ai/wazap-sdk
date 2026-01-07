@@ -1,5 +1,11 @@
 # Wazap Node SDK
 
+> ⚠️ **Pre-Launch Phase**: This application is currently under active development and will be released soon. Stay tuned for updates!
+
+📚 **API Documentation**: [https://wazap.apidog.io](https://wazap.apidog.io)
+
+---
+
 Official Node.js SDK for integrating with the Wazap.ai WhatsApp API. This library provides a fully typed, easy-to-use interface for sending messages, media, and bulk notifications through the Wazap platform.
 
 ## Features
